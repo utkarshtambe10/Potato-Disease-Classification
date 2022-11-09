@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Potato-Disease-Classification/static/css/main.073c9b0a.css",
+    "main.js": "/Potato-Disease-Classification/static/js/main.a423acc1.js",
+    "static/js/787.cda612ba.chunk.js": "/Potato-Disease-Classification/static/js/787.cda612ba.chunk.js",
+    "static/media/logoNavbar.png": "/Potato-Disease-Classification/static/media/logoNavbar.7f27b06e643a63da810f.png",
+    "static/media/background.jpg": "/Potato-Disease-Classification/static/media/background.30db2f414dee6a8d3ab2.jpg",
+    "index.html": "/Potato-Disease-Classification/index.html",
+    "main.073c9b0a.css.map": "/Potato-Disease-Classification/static/css/main.073c9b0a.css.map",
+    "main.a423acc1.js.map": "/Potato-Disease-Classification/static/js/main.a423acc1.js.map",
+    "787.cda612ba.chunk.js.map": "/Potato-Disease-Classification/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a423acc1.js"
+  ]
+}
