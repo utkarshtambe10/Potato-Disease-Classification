@@ -190,7 +190,9 @@ const ImageUpload = () => {
     }
     setIsloading(true);
     sendFile();
-  }, [preview]);
+  },
+  // eslint-disable-next-line 
+  [preview]);
 
   const onSelectFile = (files) => {
     if (!files || files.length === 0) {
